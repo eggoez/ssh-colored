@@ -1,2 +1,2 @@
 # ssh-colored
-put in $home for debian or unbuntu
+Just replace your <code>$home/.bashrc</code> with this file
